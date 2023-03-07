@@ -4,5 +4,5 @@
 // })
 
 module.exports = {
-	publicPath: '/weatherweb/'
+	publicPath: '/weathersweb/'
 }
